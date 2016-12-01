@@ -19,3 +19,11 @@
 
 - [Better Education](http://www.bettereducation.com.au/school/Primary/vic/vic_top_primary_schools.aspx): Australia school ranking search.
 - [Australian University Rankings](http://www.australianuniversities.com.au/rankings/)
+
+## other
+
+- [street-directory](http://www.street-directory.com.au/)
+- [On The House](http://www.onthehouse.com.au)
+- [Walk Score](https://www.walkscore.com/)
+- [Oz Property Data](http://www.ozpropertydata.com/)
+- [Sold Price](http://www.ksouhouse.com/)
