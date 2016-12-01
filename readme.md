@@ -22,8 +22,8 @@
 
 ## other
 
-- [street-directory](http://www.street-directory.com.au/)
-- [On The House](http://www.onthehouse.com.au)
-- [Walk Score](https://www.walkscore.com/)
-- [Oz Property Data](http://www.ozpropertydata.com/)
-- [Sold Price](http://www.ksouhouse.com/)
+- [street-directory](http://www.street-directory.com.au/): map of the property
+- [On The House](http://www.onthehouse.com.au): estimate the price of the property.
+- [Walk Score](https://www.walkscore.com/): Learn your neighborhood in walking distance
+- [Oz Property Data](http://www.ozpropertydata.com/): Property history information
+- [Sold Price](http://www.ksouhouse.com/): Property history information
