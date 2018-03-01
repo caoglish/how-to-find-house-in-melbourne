@@ -27,4 +27,4 @@
 - [Walk Score](https://www.walkscore.com/): Learn your neighborhood in walking distance
 - [Oz Property Data](http://www.ozpropertydata.com/): Property history information
 - [Sold Price](http://www.ksouhouse.com/): Property history information
-- [Property Price History](http://www.propertypricehistory.com): measure land using google map
+- [Property Price History](http://www.propertypricehistory.com): measure land using google map.
