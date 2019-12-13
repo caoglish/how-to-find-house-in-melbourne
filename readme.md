@@ -7,7 +7,7 @@
 
 ## Property Report:
 
-- [Land.vic.gov.au Report](http://services.land.vic.gov.au/maps/interactive.jsp): generating the report of land information for property
+- [Land.vic.gov.au Report](https://mapshare.vic.gov.au/MapshareVic/): generating the report of land information for property
 - [South East Water - PropertyConnect](https://secureapp.southeastwater.com.au/Propertyconnect/#/property/64E00FEC-45B2-4368-AE61-EF02B515D8F6/23006F78-18B2-4093-B422-F7C0C7C0817A): show the underground water & sewer line for the area.
 
 ## Statistics
