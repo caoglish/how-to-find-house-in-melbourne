@@ -13,7 +13,7 @@
 ## Statistics
 
 - [REIV Median prices](http://www.reiv.com.au/property-data/median-prices/median-house-prices): median property prices.
-- [crime statistics](https://www.crimestatistics.vic.gov.au/crime-statistics/latest-crime-data-by-area)
+- [crime statistics](https://www.crimestatistics.vic.gov.au/crime-statistics/latest-crime-data-by-area): Crime statistics
 
 - [RACV burglary-statistics](https://www.racv.com.au/in-your-home/home-advice/burglary-statistics.html):  (no longer static map. but summary)
   
