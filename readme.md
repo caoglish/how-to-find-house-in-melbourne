@@ -13,7 +13,10 @@
 ## Statistics
 
 - [REIV Median prices](http://www.reiv.com.au/property-data/median-prices/median-house-prices): median property prices.
-- [RACV burglary-statistics](https://www.racv.com.au/in-your-home/home-advice/burglary-statistics.html): RACV burglary statistics maps.
+- [crime statistics](https://www.crimestatistics.vic.gov.au/crime-statistics/latest-crime-data-by-area)
+
+- [RACV burglary-statistics](https://www.racv.com.au/in-your-home/home-advice/burglary-statistics.html):  (no longer static map. but summary)
+  
 
 ## School Ranking
 
